@@ -6,10 +6,6 @@ This project applies the SKA learning framework to seismic waveform data for the
 
 By measuring how information evolves in the seismic signal, SKA detects transitions between geological layers—such as the boundary between rock and oil—through sharp shifts in entropy. This makes it an ideal tool for real-time exploration and subsurface analysis.
 
-
-
-
-
 ## Features
 - Synthetic seismic stream generator with oil-layer simulation
 - Entropy-based detection using SKA principles
