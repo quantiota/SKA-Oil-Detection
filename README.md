@@ -8,13 +8,13 @@ By measuring how information evolves in the seismic signal, SKA detects transiti
 
 > SKA does not learn what the signal *is*, but how the information *changes*—that’s where true discovery lies.
 
----
+
 
 **Features**
 - Synthetic seismic stream generator with oil-layer simulation
 - Entropy-based detection using SKA principles
 - Visual analysis of seismic transitions and entropy trajectories
 
----
+
 
 **License**: MIT
