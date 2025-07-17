@@ -10,11 +10,12 @@ By measuring how information evolves in the seismic signal, SKA detects transiti
 
 
 
-**Features**
+## Features
 - Synthetic seismic stream generator with oil-layer simulation
 - Entropy-based detection using SKA principles
 - Visual analysis of seismic transitions and entropy trajectories
 
 
 
-**License**: MIT
+## License: 
+MIT
