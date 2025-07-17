@@ -23,6 +23,23 @@ This means:
 
 This makes SKA uniquely suited for **exploration scenarios** where **information is sparse**, **labels are unavailable**, and **discovery is critical**.
 
+## Call for Collaboration
+
+We are actively seeking partnerships with **petroleum companies**, **research institutions**, and **geophysical service providers** willing to share:
+
+- Legacy seismic datasets (2D or 3D)
+- Seismic traces with known reservoir annotations
+- Synthetic benchmark models used for training or internal validation
+
+Our goal is to advance **open seismic research** by applying the **SKA framework** — a forward-only, entropy-based learning method — to **real-world oil detection scenarios**.
+
+By contributing anonymized or deprecated datasets, you help:
+
+- Enable next-generation subsurface analysis
+- Accelerate unsupervised learning methods in exploration
+- Foster collaboration between geoscientists and AI researchers
+
+ If you or your organization are open to collaboration, please reach out via [GitHub Discussions](https://github.com/quantiota/SKA-Oil-Detection/discussions) or email us directly.
 
 
 ## License: 
